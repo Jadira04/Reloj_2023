@@ -4,7 +4,12 @@
 	box-sizing: border-box;
 	font-family: 'exo 2', sans-serif;
 }
-
+/*creacion de una clase para darle el centrado al titulo en la v1.2*/
+h1{
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: bold;
+}
 body{
 	width: 100vw;
 	height: 100vh;
